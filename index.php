@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title> Exercicio 01</title>
+<title> Exercicio 01 - </title>
 	<meta charset = "utf-8">
 
 	<style>
